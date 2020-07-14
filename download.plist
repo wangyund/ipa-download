@@ -13,25 +13,17 @@
 					<key>url</key>
 					<string>https://ip.rowenatech.com/download/Ios/Unity-iPhone.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>BT.Avanker</string>
+				<string>one.game.com</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>4.0.97.130764</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>测试包</string>
+				<string>甘普繁体4号包</string>
 			</dict>
 		</dict>
 	</array>
